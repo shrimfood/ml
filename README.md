@@ -1,4 +1,5 @@
 # How to use Git : 기본 명령어
+![tree](https://user-images.githubusercontent.com/105369291/177272849-05f4d1dd-9d01-45e2-ba1d-273dc541a060.png)
 
 [https://subicura.com/git/guide/](https://subicura.com/git/guide/)
 
